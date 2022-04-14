@@ -1,7 +1,7 @@
-/*package net.example30;
+package net.example30;
 
-import net.common.example29.ReadConsole;
-import net.common.example30.ChangeSubstring;
+import net.example29.ReadConsole;
+import net.example30.ChangeSubstring;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,4 +9,4 @@ public class Main {
         StringBuilder out = ChangeSubstring.replaceParagraph(input);
         System.out.println(out);
     }
-}*/
+}
