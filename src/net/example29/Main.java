@@ -1,6 +1,6 @@
-/*package net.example29;
+package net.example29;
 
-import net.common.example29.*;
+import net.example29.*;
 
 public class Main {
 
@@ -8,4 +8,4 @@ public class Main {
         String inputLine = ReadConsole.getString();
         Search.findHex(inputLine);
     }
-}*/
+}
