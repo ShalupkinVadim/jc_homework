@@ -1,6 +1,6 @@
-/*package net.example31;
+package net.example31;
 
-import net.common.example31.*;
+import net.example31.*;
 
 public class Main {
 
@@ -9,4 +9,4 @@ public class Main {
         TimeRunning.checkTimeRunningString(sumStrings);
         TimeRunning.checkTimeRunningStringBuilder(sumStrings);
     }
-}*/
+}
