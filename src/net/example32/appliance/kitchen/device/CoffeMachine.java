@@ -1,8 +1,8 @@
-/*package net.example32.appliance.kitchen.device;
+package net.example32.appliance.kitchen.device;
 
 import net.example32.appliance.kitchen.KitchenAppliance;
 
-public class CoffeeMachine extends KitchenAppliance {
+class CoffeeMachine extends KitchenAppliance {
 
     private double volume;
 
@@ -23,5 +23,4 @@ public class CoffeeMachine extends KitchenAppliance {
         if(getState() && getVolume() > 0) System.out.println("This coffee machine is making coffee");
         else System.out.println("turn on coffee machine or add water");
     }
-}*/
-
+}
