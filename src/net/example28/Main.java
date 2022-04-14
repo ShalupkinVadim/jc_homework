@@ -1,8 +1,8 @@
-/*package net.example28;
+package net.example28;
 
-import net.common.example27.ReadConsole;
-import net.common.example27.TransformText;
-import net.common.example28.TransformString;
+import net.example27.ReadConsole;
+import net.example27.TransformText;
+import net.example28.TransformString;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,4 +10,4 @@ public class Main {
         String[] arrWord = new TransformText().textToWordArray(str);
         new TransformString().lastLettersWords(arrWord);
     }
-}*/
+}
