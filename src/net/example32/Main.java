@@ -1,4 +1,4 @@
-/*package net.example32;
+package net.example32;
 
 import net.example32.appliance.Appliance;
 import net.example32.appliance.kitchen.device.*;

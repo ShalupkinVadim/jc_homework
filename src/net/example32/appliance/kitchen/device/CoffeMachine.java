@@ -2,7 +2,7 @@ package net.example32.appliance.kitchen.device;
 
 import net.example32.appliance.kitchen.KitchenAppliance;
 
-class CoffeeMachine extends KitchenAppliance {
+public class CoffeeMachine extends KitchenAppliance {
 
     private double volume;
 

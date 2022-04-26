@@ -1,5 +1,6 @@
 package net.common;
 
+
 import java.util.Random;
 
 public class Array {
