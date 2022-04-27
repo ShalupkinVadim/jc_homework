@@ -2,11 +2,11 @@ package net.example32.appliance.kitchen.device;
 
 import net.example32.appliance.kitchen.KitchenAppliance;
 
-public class CoffeeMachine extends KitchenAppliance {
+public class CoffeMachine extends KitchenAppliance {
 
     private double volume;
 
-    public CoffeeMachine(String brand, String nameKitchenAppliance, String color) {
+    public CoffeMachine(String brand, String nameKitchenAppliance, String color) {
         super(brand, nameKitchenAppliance,color);
     }
 
